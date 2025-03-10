@@ -130,7 +130,7 @@ export const handler = async (event) => {
 1. Launch an EC2 instance.
 2. Check if the Lambda function was triggered.
 3. Verify SNS notifications in your email.
-![Screenshot_20250310-115249 Gmail~2|500](https://github.com/user-attachments/assets/f07beb4d-85cc-4acd-bd55-029e1aaa715b)
+![Screenshot_20250310-115249 Gmail~2|300](https://github.com/user-attachments/assets/f07beb4d-85cc-4acd-bd55-029e1aaa715b)
 
 ---
 
